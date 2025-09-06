@@ -10,7 +10,7 @@ Includes a **Streamlit web application** for easy interaction.
 - **Naïve Bayes Model** for classification  
 - **Accuracy, Confusion Matrix, Classification Report** for evaluation  
 - **Streamlit GUI** to test custom email messages  
-- **Visuals**: Confusion matrix heatmap & dataset distribution pie chart  
+- **Visuals** Confusion matrix heatmap & dataset distribution pie chart  
 
 ---
 
